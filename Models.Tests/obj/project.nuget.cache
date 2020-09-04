@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "S5v5SNyvBMbtgvddMItlKy7iBcVy+9VwTqrZRypl8uQuSzOxcCx+IECs+eICCy0GlWn0cpKN5gxNNmTDH330yg==",
+  "success": true,
+  "projectFilePath": "J:\\Personalprojects\\TestModelsFs\\TestModels\\Models.Tests\\Models.Tests.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\carlvinm\\.nuget\\packages\\fsharp.core\\4.7.2\\fsharp.core.4.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}

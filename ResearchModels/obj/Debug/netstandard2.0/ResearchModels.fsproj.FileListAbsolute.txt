@@ -1,6 +1,0 @@
-J:\Personalprojects\TestModelsFs\TestModels\bin\Debug\netstandard2.0\ResearchModels.deps.json
-J:\Personalprojects\TestModelsFs\TestModels\bin\Debug\netstandard2.0\ResearchModels.dll
-J:\Personalprojects\TestModelsFs\TestModels\obj\Debug\netstandard2.0\ResearchModels.fsprojAssemblyReference.cache
-J:\Personalprojects\TestModelsFs\TestModels\obj\Debug\netstandard2.0\ResearchModels.AssemblyInfoInputs.cache
-J:\Personalprojects\TestModelsFs\TestModels\obj\Debug\netstandard2.0\ResearchModels.AssemblyInfo.fs
-J:\Personalprojects\TestModelsFs\TestModels\obj\Debug\netstandard2.0\ResearchModels.fsproj.CoreCompileInputs.cache
